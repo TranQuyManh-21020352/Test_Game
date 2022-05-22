@@ -1,0 +1,5 @@
+﻿  main.cpp
+E:\LẬP TRÌNH NÂNG CAO\Race\main.cpp(36,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\LẬP TRÌNH NÂNG CAO\Race\main.cpp(333,37): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+E:\LẬP TRÌNH NÂNG CAO\Race\main.cpp(334,38): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Race.vcxproj -> E:\LẬP TRÌNH NÂNG CAO\Race\x64\Debug\Race.exe
